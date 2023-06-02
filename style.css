@@ -20,8 +20,8 @@ h2{
     font-size: 23px;
     margin-bottom: 20px;
 }
-a. font-black{
-
+a.font-black{
+    color: black !important;
 }
 #about {
     margin: 60px auto;
@@ -82,6 +82,7 @@ a. font-black{
 #project .card-title{
     font-weight: bold;
 }
+
 
 #project .card-body{
     max-width: 840px;
